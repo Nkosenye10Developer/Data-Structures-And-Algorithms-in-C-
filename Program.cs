@@ -1,5 +1,5 @@
 ﻿/* s225550997 Thembelihle Faltein 
- * s225576147 Simphiwe Nkosenye Banda
+ * s225576147 Simphiwe Nkosenye Hleza
  * s225139049 Gcobisa Sidumo
  * s225143178 Keanu Kapank
  * s225139472 Kamogelo Maifadi
